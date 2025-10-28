@@ -30,7 +30,7 @@ Minimum predicted TMAX: 47.38°F,
 Maximum predicted TMAX: 75.94°F,
 Average predicted TMAX: 68.07°F
 
-Forecast Plot
+Forecast Plot 
 
 <img width="962" height="395" alt="image" src="https://github.com/user-attachments/assets/0d84e08d-87fa-47bc-aa24-4cd162aba3d4" />
 
@@ -40,6 +40,7 @@ Forecast Plot
 <img width="961" height="464" alt="image" src="https://github.com/user-attachments/assets/223d7b35-15c0-4652-8997-bf6f1a289837" />
 
 
+Observation: The red dashed line represents forecasted TMAX, and the shaded area highlights the 30-day forecast horizon.
 
 ## Dependencies
 
