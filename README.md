@@ -26,13 +26,14 @@ The script will output:
 
 Forecast Summary
 
-Minimum predicted TMAX: 47.38°F
-Maximum predicted TMAX: 75.94°F
+Minimum predicted TMAX: 47.38°F,
+Maximum predicted TMAX: 75.94°F,
 Average predicted TMAX: 68.07°F
 
 Forecast Plot
 
 <img width="963" height="399" alt="image" src="https://github.com/user-attachments/assets/e9e438f5-65a5-4d09-aad6-870cefc3e3c2" />
+
 
 
 <img width="980" height="465" alt="image" src="https://github.com/user-attachments/assets/91b46fb7-7761-4628-b43c-51de6ba0d2ae" />
