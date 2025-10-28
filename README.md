@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a Python project for forecasting **daily maximum temperatures (TMAX)** for 30 days using a **RandomForest regression model**. 
-The model is trained on historical temperature data with lag features to capture short-term temporal patterns.
+The model is trained on historical temperature data.
 
 The project includes:
 
