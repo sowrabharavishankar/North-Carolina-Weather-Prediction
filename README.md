@@ -8,9 +8,13 @@ The model is trained on historical temperature data with lag features to capture
 The project includes:
 
 * Data preprocessing with lag feature creation
-* RandomForest model training and saving
+* RandomForest and ARIMA(Statistical) model training and saving
 * 30-day temperature forecast after the last observed date
 * Visualization of historical and forecasted temperatures
+
+### Model Performance
+- **RandomForest Regressor:** RMSE = 8.75
+- **ARIMA:** RMSE = 19.22
 
 ## Features
 
